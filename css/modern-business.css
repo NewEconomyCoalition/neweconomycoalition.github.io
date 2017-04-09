@@ -42,6 +42,13 @@ header.carousel .fill {
     background-size: cover;
 }
 
+/* NAV Page Styles */
+#logo{
+  height: 300%;
+  float: left;
+  width: auto;
+}
+
 /* 404 Page Styles */
 
 .error-404 {
