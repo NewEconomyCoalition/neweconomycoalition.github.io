@@ -48,6 +48,11 @@ header.carousel .fill {
   float: left;
   width: auto;
 }
+.navbar-inverse {
+  background-color: #365897;
+  border-color: #080808;
+}
+
 /* 404 Page Styles */
 
 .error-404 {
@@ -55,7 +60,6 @@ header.carousel .fill {
 }
 
 /* Pricing Page Styles */
-
 .price {
     display: block;
     font-size: 50px;
@@ -77,7 +81,6 @@ header.carousel .fill {
 
 footer {
     margin: 50px 0;
-    color: #365897;
 }
 
 /* Responsive Styles */
