@@ -58,7 +58,13 @@ header.carousel .fill {
 .navbar-inverse .navbar-brand {
   color: #fff;
 }
-
+.navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 20px;
+  line-height: 20px;
+}
 /* 404 Page Styles */
 
 .error-404 {
