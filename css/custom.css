@@ -55,7 +55,9 @@ header.carousel .fill {
 .navbar-inverse .navbar-nav > li > a {
   color: #fff;
 }
-
+.navbar-inverse .navbar-brand {
+  color: #fff;
+}
 
 /* 404 Page Styles */
 
