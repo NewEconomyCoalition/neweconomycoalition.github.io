@@ -52,6 +52,10 @@ header.carousel .fill {
   background-color: #365897;
   border-color: #080808;
 }
+.navbar-inverse .navbar-nav > li > a {
+  color: #fff;
+}
+
 
 /* 404 Page Styles */
 
