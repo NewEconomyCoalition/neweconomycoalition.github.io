@@ -48,10 +48,12 @@ header.carousel .fill {
   float: left;
   width: auto;
 }
+/* Nav Links */
 .navbar-inverse {
   background-color: #365897;
   border-color: #080808;
 }
+/* Nav Title */
 .navbar-inverse .navbar-nav > li > a {
   color: #fff;
 }
