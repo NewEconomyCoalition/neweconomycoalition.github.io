@@ -1,4 +1,3 @@
-# Intro
 ## AN INTRODUCTION TO NEC
 
 We believe that all our struggles —racial, economic, and environmental— are deeply interconnected and that the most powerful solutions are those that tackle the systemic roots of our issues, rather than treat them in isolation.
