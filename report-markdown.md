@@ -1,7 +1,7 @@
 # Intro
 ## AN INTRODUCTION TO NEC
 
-We believe that all our struggles—racial, economic, and environmental—are deeply interconnected and that the most powerful solutions are those that tackle the systemic roots of our issues, rather than treat them in isolation.
+We believe that all our struggles —racial, economic, and environmental— are deeply interconnected and that the most powerful solutions are those that tackle the systemic roots of our issues, rather than treat them in isolation.
 
 In 2016 we saw social movements step up to disrupt the status quo, challenge the political establishment, and demand economic, racial, and environmental justice. But as the faults of our current system become clearer, so does the need for visionary alternatives.
 
@@ -273,7 +273,7 @@ We won’t be able to build a new economy unless we build new relationships. At 
 
 https://www.flickr.com/photos/fotomisfit/33287107676/sizes/l
 
-Strengthening Our Network
+## Strengthening Our Network
 
 Our three-day member gathering and annual meeting happening in May 2017 will bring together representatives from our 175+ member groups to organize and plan joint action, helping alternatives builders develop strategies for an age of resistance. The gathering will include strategy sessions, the formation of lasting collaborations, and trainings on community organizing and communications campaigns. We will provide scholarships covering travel and housing for low-resource, grassroots groups participating.
 
@@ -283,14 +283,14 @@ We are innovating new online tools for the movement like Lumen, an open source m
 
 We are incubating new working groups of our members, including those grounded in different regions of the U.S. and focusing on place-based issues.
 
-Resisting and Building
+## Resisting and Building
 
 In this challenging political moment, we will intensify our efforts to connect campaigns, protests, and political advocacy for racial, economic, and environmental injustice with efforts to build democratic economies, such as cooperatives and community-owned enterprises led by members of traditionally marginalized communities. With our members and allies, we will continue to ask questions like:
 
 How do we move away from fossil fuels as a nation and at the same time move control of energy to local communities?
 How do we organize against police brutality and at the same time support and create independent black-owned businesses?
 
-Seeding New Stories
+## Seeding New Stories
 
 The biggest news story right now is the one that’s not being reported: the emergence of a new economy movement. All across the United States, Canada, and around the world, people are building solutions that meet their communities’ needs, especially people most deeply affected by our unjust economic system. In an era where people feel increasingly despondent and disconnected from one another, it is more important than ever to center the needs of frontline communities—rural and urban—and to center the leadership and solutions those communities are offering.
 
@@ -301,17 +301,20 @@ We partnered with NEC because we want to be at the forefront of media coverage o
 
 [Photo Annual Report Image 7.jpg https://drive.google.com/file/d/0B0bYuAWzxrFJbllrOHBZbzgzOVE/view?usp=sharing]
 
-Creating a Common Narrative
+## Creating a Common Narrative
 
 We are moving forward with our Metanarrative Project: leading, in partnership with members and CSS, a narrative power analysis focused on a new economy. The goal of the narrative power analysis is to reveal hidden assumptions behind narratives supporting extractive economies in order to better challenge those narratives. The analysis will form the foundation of communications campaigns and experiments in 2017 and beyond. We are also launching a member working group which will become the driving force for the project into the future.  
 
-Beautiful Solutions
+## Beautiful Solutions
 
 In partnership with Beautiful Trouble and the Highlander Research and Education Center, we’re excited to help launch a new movement resource: Beautiful Solutions: Toolbox for the Future.  Through a book, online tools, and popular education program, Beautiful Solutions will collect and share the most promising, replicable strategies for building equitable, sustainable economies. The goal is to inspire people as to what’s possible and to support communities who are interested in exploring new economy strategies in their own communities. A full-length book will be coming out in 2017!
+
 ---
 
-General Info (Title TBD)
-2016 NEC STAFF
+# General Info (Title TBD)
+
+## 2016 NEC STAFF
+
 Kate Aronoff, Communications Manager
 Shavaun Evans, Network Organizer
 Eli Feghali, Communications Director
@@ -329,190 +332,191 @@ Jonathan Rosenthal, Executive Director
 Mike Sandmel, Membership Director
 Ash Trull, CommonBound 2016 Project Manager
 
-NEC MEMBERS AS OF MARCH 1, 2017
+## NEC MEMBERS AS OF MARCH 1, 2017
 
-1worker1vote.org
-350.org
-American Sustainable Business Council
-Anti-Oppression Resource and Training Alliance (AORTA)
-Arthur Morgan Institute for Community Solutions
-B Lab
-Beautiful Trouble
-Board of Change
-Boston Impact Initiative
-Bottom Up Economy
-Business Alliance for Local Living Economies
-BYP 100
-Canadian Community Economic Development Network
-Canadian Worker Co-op Federation
-Capital Institute
-Caring Economy Campaign
-Carolina Common Enterprise
-Center for a New American Dream
-Center for Earth Ethics
-Center for Economic Democracy
-Center for Social Inclusion
-Centre for Local Prosperity
-CitySeed
-Class Action
-Co-op Power
-CODEPINK
-CoFED: The Cooperative Food Empowerment Directive
-Community Builders Long Island
-Community Purchasing Alliance Cooperative
-Community Sourced Capital, SPC
-Community Ventures
-Compression Institute
-Concord Climate Action Network
-Cooperation Buffalo
-Cooperation Jackson
-Cooperative Development Institute
-Cooperative Development Program of the Center for Family Life
-Cooperative Economics Alliance of New York City
-Cooperative Fund of New England
-CoopZone Developers' Network
-Corporate Accountability International
-Coworker.org
-COWS (Center on Wisconsin Strategy)
-Croatan Institute
-Cutting Edge Capital
-Demand Progress
-Democracy at Work Institute
-Demos
-Dream Corps
-Earth Charter International
-Earth Island Institute
-Environment, Economics and Society Institute
-Equal Exchange
-Equity Trust, Inc.
-Fair World Project
-Faith, Economy, Ecology, Transformation Working Group
-Fellowship for Intentional Community
-First Nations Oweesta Corporation
-Food First
-Fossil Fuel Divestment Student Network
-Fund for Democratic Communities
-Global Community Initiatives
-Global Development and Environment Institute
-Grand Aspirations
-Green America
-Green Map System
-GreenWave
-Groundswell
-Gund Institute for Ecological Economics
-Highlander Center
-hOurworld cooperative
-IDEA: Institute for Democratic Education in America
-Initiative for Equality (IfE)
-Institute for a Resource-Based Economy
-Institute for Agriculture and Trade Policy
-Institute for Local Self-Reliance
-Institute for Policy Studies
-Intelligent Mischief
-ioby (in our back yards)
-Jamaica Plain New Economy Transition
-James and Grace Lee Boggs Center to Nurture Community Leadership
-Jobs with Justice Education Fund
-Labor Network for Sustainability
-Liberty Tree
-Lifebridge Foundation
-LINC Foods
-Living Economies Forum
-Local Clean Energy Alliance
-Local Enterprise Assistance Fund (LEAF)
-Local Futures / ISEC
-Magic City Agriculture Project
-MAP Growing Green
-Maypop Collective for Climate and Economic Justice
-Missourians Organizing for Reform and Empowerment
-Mountain Association for Community Economic Development
-Movement Generation: Justice and Ecology Project
-National Economic and Social Rights Initiative (NESRI)
-National Priorities Project
-Natural Capitalism Solutions
-New Economics Foundation (NEF)
-New Economy Maryland
-New Economy Project
-New England Grassroots Environment Fund
-North American Students of Cooperation
-Northern Plains Resource Council
-Northwest Atlantic Marine Alliance
-Nuclear Information and Resource Service
-One Earth
-Open Buffalo
-Ownership Associates, Inc.
-Participatory Budgeting Project
-Partnership for the Public Good
-Peace Development Fund
-People United for Sustainable Housing (PUSH Buffalo)
-People's Action
-Philadelphia Area Cooperative Alliance
-Pittsburgh Chamber of Cooperatives
-Platform Cooperativism Consortium
-PolicyLink
-Post Carbon Institute
-Post Growth Institute
-Power Shift Network
-Project Equity
-Project South
-Public Banking Institute
-Restaurant Opportunities Centers United / RAISE
-Real Food Challenge
-Real Pickles
-ReDesign Reading
-Regenerative Finance
-Resource Generation
-Responsible Endowments Coalition
-Rethinking Economics
-Rethinking Prosperity
-Schumacher Center for a New Economics
-Self-Help
-Shareable
-Slow Money
-Small Planet Institute
-Sol Collective
-Solidarity Economy St. Louis
-Solidarity Research Center
-SolidarityNYC
-SosteNica
-Soulardarity
-south mountain company, inc.
-Spark Makerspace
-Springboard for the Arts
-Sustainable Consumption Research and Action Initiative, SCORAI
-Sustainable Economies Law Center
-Sustainable Endowments Institute
-Sustainable World Initiative
-SustainUS
-Take Back Your Time
-Tellus Institute
-The Democracy Collaborative
-The Food Commons
-The Icarus Project
-The Sociocracy Consulting Group
-The Thomas Merton Center
-The Toolbox for Education and Social Action
-The Working World
-Tightshift Laboring Cooperative
-Timebanks USA
-Transition Town Peterborough
-Transition US
-U.S. Department of Arts and Culture
-U.S. Federation of Worker Cooperatives
-Ujima Company, Inc.
-Unitarian Universalist Community Cooperatives
-United for a Fair Economy
-UPSTREAM
-USA Cooperative Youth Council
-We Own It
-Windsor Workers' Education Centre
-Worcester Roots
-Worldwatch Institute
-YES! Magazine
-Young People’s Action Coalition
+- 1worker1vote.org
+- 350.org
+- American Sustainable Business Council
+- Anti-Oppression Resource and Training Alliance (AORTA)
+- Arthur Morgan Institute for Community Solutions
+- B Lab
+- Beautiful Trouble
+- Board of Change
+- Boston Impact Initiative
+- Bottom Up Economy
+- Business Alliance for Local Living Economies
+- BYP 100
+- Canadian Community Economic Development Network
+- Canadian Worker Co-op Federation
+- Capital Institute
+- Caring Economy Campaign
+- Carolina Common Enterprise
+- Center for a New American Dream
+- Center for Earth Ethics
+- Center for Economic Democracy
+- Center for Social Inclusion
+- Centre for Local Prosperity
+- CitySeed
+- Class Action
+- Co-op Power
+- CODEPINK
+- CoFED: The Cooperative Food Empowerment Directive
+- Community Builders Long Island
+- Community Purchasing Alliance Cooperative
+- Community Sourced Capital, SPC
+- Community Ventures
+- Compression Institute
+- Concord Climate Action Network
+- Cooperation Buffalo
+- Cooperation Jackson
+- Cooperative Development Institute
+- Cooperative Development Program of the Center for Family Life
+- Cooperative Economics Alliance of New York City
+- Cooperative Fund of New England
+- CoopZone Developers' Network
+- Corporate Accountability International
+- Coworker.org
+- COWS (Center on Wisconsin Strategy)
+- Croatan Institute
+- Cutting Edge Capital
+- Demand Progress
+- Democracy at Work Institute
+- Demos
+- Dream Corps
+- Earth Charter International
+- Earth Island Institute
+- Environment, Economics and Society Institute
+- Equal Exchange
+- Equity Trust, Inc.
+- Fair World Project
+- Faith, Economy, Ecology, Transformation Working Group
+- Fellowship for Intentional Community
+- First Nations Oweesta Corporation
+- Food First
+- Fossil Fuel Divestment Student Network
+- Fund for Democratic Communities
+- Global Community Initiatives
+- Global Development and Environment Institute
+- Grand Aspirations
+- Green America
+- Green Map System
+- GreenWave
+- Groundswell
+- Gund Institute for Ecological Economics
+- Highlander Center
+- hOurworld cooperative
+- IDEA: Institute for Democratic Education in America
+- Initiative for Equality (IfE)
+- Institute for a Resource-Based Economy
+- Institute for Agriculture and Trade Policy
+- Institute for Local Self-Reliance
+- Institute for Policy Studies
+- Intelligent Mischief
+- ioby (in our back yards)
+- Jamaica Plain New Economy Transition
+- James and Grace Lee Boggs Center to Nurture Community Leadership
+- Jobs with Justice Education Fund
+- Labor Network for Sustainability
+- Liberty Tree
+- Lifebridge Foundation
+- LINC Foods
+- Living Economies Forum
+- Local Clean Energy Alliance
+- Local Enterprise Assistance Fund (LEAF)
+- Local Futures / ISEC
+- Magic City Agriculture Project
+- MAP Growing Green
+- Maypop Collective for Climate and Economic Justice
+- Missourians Organizing for Reform and Empowerment
+- Mountain Association for Community Economic Development
+- Movement Generation: Justice and Ecology Project
+- National Economic and Social Rights Initiative (NESRI)
+- National Priorities Project
+- Natural Capitalism Solutions
+- New Economics Foundation (NEF)
+- New Economy Maryland
+- New Economy Project
+- New England Grassroots Environment Fund
+- North American Students of Cooperation
+- Northern Plains Resource Council
+- Northwest Atlantic Marine Alliance
+- Nuclear Information and Resource Service
+- One Earth
+- Open Buffalo
+- Ownership Associates, Inc.
+- Participatory Budgeting Project
+- Partnership for the Public Good
+- Peace Development Fund
+- People United for Sustainable Housing (PUSH Buffalo)
+- People's Action
+- Philadelphia Area Cooperative Alliance
+- Pittsburgh Chamber of Cooperatives
+- Platform Cooperativism Consortium
+- PolicyLink
+- Post Carbon Institute
+- Post Growth Institute
+- Power Shift Network
+- Project Equity
+- Project South
+- Public Banking Institute
+- Restaurant Opportunities Centers United / RAISE
+- Real Food Challenge
+- Real Pickles
+- ReDesign Reading
+- Regenerative Finance
+- Resource Generation
+- Responsible Endowments Coalition
+- Rethinking Economics
+- Rethinking Prosperity
+- Schumacher Center for a New Economics
+- Self-Help
+- Shareable
+- Slow Money
+- Small Planet Institute
+- Sol Collective
+- Solidarity Economy St. Louis
+- Solidarity Research Center
+- SolidarityNYC
+- SosteNica
+- Soulardarity
+- south mountain company, inc.
+- Spark Makerspace
+- Springboard for the Arts
+- Sustainable Consumption Research and Action Initiative, SCORAI
+- Sustainable Economies Law Center
+- Sustainable Endowments Institute
+- Sustainable World Initiative
+- SustainUS
+- Take Back Your Time
+- Tellus Institute
+- The Democracy Collaborative
+- The Food Commons
+- The Icarus Project
+- The Sociocracy Consulting Group
+- The Thomas Merton Center
+- The Toolbox for Education and Social Action
+- The Working World
+- Tightshift Laboring Cooperative
+- Timebanks USA
+- Transition Town Peterborough
+- Transition US
+- U.S. Department of Arts and Culture
+- U.S. Federation of Worker Cooperatives
+- Ujima Company, Inc.
+- Unitarian Universalist Community Cooperatives
+- United for a Fair Economy
+- UPSTREAM
+- USA Cooperative Youth Council
+- We Own It
+- Windsor Workers' Education Centre
+- Worcester Roots
+- Worldwatch Institute
+- YES! Magazine
+- Young People’s Action Coalition
 
-2016 NEC Board of Directors
+## 2016 NEC Board of Directors
 
+```
 David Abromowitz: Chief Public Policy Officer at YouthBuild USA; Senior Fellow at the Center for American Progress; affordable housing attorney at Goulston & Storrs
 [Photo https://drive.google.com/a/neweconomicsinstitute.org/file/d/0B9V3YcrBGGVfTFd6ano1V0dKNVk/view?usp=sharing]
 Gar Alperovitz, Co-Founder of the Democracy Collaborative; Co-Chair of the Next System Project; Lionel R. Bauman Professor of Political Economy at the University of Maryland
@@ -553,96 +557,106 @@ Stewart Wallis: Senior Advisor at the New Economics Foundation
 [Photo https://drive.google.com/a/neweconomicsinstitute.org/file/d/0B9V3YcrBGGVfMXpMdkJNU05Sczg/view?usp=sharing]
 Ed Whitfield: Co-Founder and Co-Managing Director of the Fund for Democratic Communities
 [Photo https://drive.google.com/a/neweconomicsinstitute.org/file/d/0B9V3YcrBGGVfNUtXSkE4cjdzQUE/view?usp=sharing]
+```
+
 ---
 
 # Acknowledgements
-THANK YOU TO OUR SUPPORTERS
+**THANK YOU TO OUR SUPPORTERS**
 
 
 Many people and organizations--donors and others--make our work possible. Thank you to all who supported us in 2016.
 
-2016 Donors*
+## 2016 Donors
 
-Bluestein Family Foundation
-Jessica Brackman and Charles Melcher
-Capital Institute
-The Chorus Foundation
-Cloud Mountain Foundation
-Cooperative Development Institute
-Cooperative Fund of New England
-Corporate Accountability International
-Dr. Bronner's Magic Soaps
-Equal Exchange
-The Fund for Democratic Communities
-Deborah Frieze
-The Germeshausen Foundation
-Neva Goodwin
-Kathryn Grody
-Agnes Gund
-Farha-Joyce Haboucha
-Hildegarde Hannum
-The Harvey L. Miller Family Foundation
-Julie Brotje Higgins
-Ashley Kidd
-M&T Bank
-The Mary Reynolds Babcock Foundation
-Elizabeth McMeekin
-Jeremy Mindich
-National Cooperative Bank
-The New England Grassroots Environment Fund
-New Visions Foundation
-NoVo Foundation
-The John R. Oishei Foundation
-The Overbrook Foundation
-Park Foundation
-The Paul & Edith Babson Foundation
-Phalarope Foundation
-Proteus Fund
-William Raap
-Kim Rosenthal and Andrew Nicholson
-RSF Social Finance
-Charles Sandmel and Barbara Simonetti
-Laurie Schecter
-Naomi Sobel and Rabbi Becky Silverstein
-Threshold Foundation
-Trillium Asset Management
-The Working World
+- Bluestein Family Foundation
+- Jessica Brackman and Charles Melcher
+- Capital Institute
+- The Chorus Foundation
+- Cloud Mountain Foundation
+- Cooperative Development Institute
+- Cooperative Fund of New England
+- Corporate Accountability International
+- Dr. Bronner's Magic Soaps
+- Equal Exchange
+- The Fund for Democratic Communities
+- Deborah Frieze
+- The Germeshausen Foundation
+- Neva Goodwin
+- Kathryn Grody
+- Agnes Gund
+- Farha-Joyce Haboucha
+- Hildegarde Hannum
+- The Harvey L. Miller Family Foundation
+- Julie Brotje Higgins
+- Ashley Kidd
+- M&T Bank
+- The Mary Reynolds Babcock Foundation
+- Elizabeth McMeekin
+- Jeremy Mindich
+- National Cooperative Bank
+- The New England Grassroots Environment Fund
+- New Visions Foundation
+- NoVo Foundation
+- The John R. Oishei Foundation
+- The Overbrook Foundation
+- Park Foundation
+- The Paul & Edith Babson Foundation
+- Phalarope Foundation
+- Proteus Fund
+- William Raap
+- Kim Rosenthal and Andrew Nicholson
+- RSF Social Finance
+- Charles Sandmel and Barbara Simonetti
+- Laurie Schecter
+- Naomi Sobel and Rabbi Becky Silverstein
+- Threshold Foundation
+- Trillium Asset Management
+- The Working World
 
-* Only donors who gave $350 or more are listed.
+*Only donors who gave $350 or more are listed.*
 
-2016 FINANCIALS*
+# 2016 FINANCIALS
 
-2016 Support and Revenue
+## 2016 Support and Revenue
 
-Foundation Grants
+>Foundation Grants
 $1,089,904
 79%
-Individual Gifts (below $5,000 each)
+
+>Individual Gifts (below $5,000 each)
 $32,450
 2%
-Major Gifts (more than $5,000 each)
+
+>Major Gifts (more than $5,000 each)
 $70,000
 5%
-Gifts from Non-Profits and Businesses
+
+>Gifts from Non-Profits and Businesses
 $13,250
 1%
-Program-Related and Other Income
+
+>Program-Related and Other Income
 $194,937
 14%
 
-Total: $1,374,527
+>Total: $1,374,527
 
 
-2016 Functional Expenses
+## 2016 Functional Expenses
 
 
-Administrative
+>Administrative
 $309,684
-Fundraising
+
+>Fundraising
 $126,731
-Programs
+
+>Programs
 $829,026
-Communications
+
+>Communications
 $104,131
-Total
+
+>Total
 $1,369,572
