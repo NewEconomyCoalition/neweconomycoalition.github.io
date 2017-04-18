@@ -134,8 +134,18 @@ td.membertb {
   text-align: center;
   font-weight: normal
 }
-/* */
-img.reportimg {
+/* Report Images */
+img.reportimg1 {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  float: center;
+  margin: 0px 0px;
+  border-style: solid;
+  border-right-width: 5px;
+  border-color: white;
+}
+img.reportimg2 {
   max-width: 50%;
   width: 100%;
   height: auto;
