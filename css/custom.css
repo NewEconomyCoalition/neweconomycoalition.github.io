@@ -47,6 +47,17 @@ header.carousel .fill {
     filter:brightness(30%);
 }
 
+/* Members Table */
+table.membertb,
+th.membertb,
+td.membertb {
+  border: 1px solid black;
+  text-align: center;
+  font-weight: normal
+}
+
+
+
 /* NAV Page Styles */
 #logo{
   margin: -10px 15px;
