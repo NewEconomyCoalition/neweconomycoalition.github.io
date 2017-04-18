@@ -47,16 +47,6 @@ header.carousel .fill {
     filter:brightness(30%);
 }
 
-/* Members Table */
-table.membertb,
-th.membertb,
-td.membertb {
-  border: 1px solid black;
-  text-align: center;
-  font-weight: normal
-}
-
-
 
 /* NAV Page Styles */
 #logo{
@@ -135,4 +125,21 @@ footer {
     #title{
       display: none;
     }
+}
+/* Members Table */
+table.membertb,
+th.membertb,
+td.membertb {
+  border: 1px solid black;
+  text-align: center;
+  font-weight: normal
+}
+/* */
+img.reportimg {
+  max-width: 50%;
+  float: left;
+  margin: 10px auto;
+  border-style: solid;
+  border-right-width: 5px;
+  border-color: white;
 }
