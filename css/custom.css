@@ -23,6 +23,8 @@ body {
     opacity: 0.8;
 }
 
+/* Fonts */
+@font-face { font-family: Steagal-Re; src: url('fonts/Steagal-Re.otf'); } 
 body {
   font-family: "Steagal-Re"
 }
