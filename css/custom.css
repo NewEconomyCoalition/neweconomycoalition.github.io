@@ -136,8 +136,8 @@ td.membertb {
 }
 /* Report Images */
 img.reportimg1 {
-  max-width: 100%;
-  width: 50%;
+  max-width: 50%;
+  width: 100%;
   height: auto;
   float: center;
   margin: 0px 0px;
