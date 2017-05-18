@@ -24,7 +24,7 @@ body {
 }
 
 /* Fonts */
-@font-face { font-family: Steagal-Re; src: url('fonts/Steagal-Re.otf'); } 
+@font-face { font-family: Steagal-Re; src: url('/fonts/Steagal-Re.otf'); } 
 body {
   font-family: "Steagal-Re"
 }
