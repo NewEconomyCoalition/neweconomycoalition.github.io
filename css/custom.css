@@ -24,7 +24,7 @@ body {
 }
 
 /* Fonts */
-@font-face { font-family: Steagal-Re; src: url('/fonts/Steagal-Re.otf'); } 
+@font-face { font-family: Steagal-Re; src: url('/fonts/Steagal-Re.otf'); }
 body {
   font-family: "Steagal-Re"
 }
@@ -134,7 +134,18 @@ th.membertb,
 td.membertb {
   border: 1px solid black;
   text-align: center;
-  font-weight: normal
+  font-weight: normal;
+}
+/* Board Table */
+table.boardtb,
+th.boardtb,
+td.boardtb {
+  border: 1px solid black;
+  text-align: center;
+  font-weight: normal;
+}
+td.boardtb {
+  width: (100/3)%;
 }
 /* Report Images */
 img.reportimg1 {
